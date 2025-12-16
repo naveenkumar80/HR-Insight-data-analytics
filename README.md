@@ -1,10 +1,3 @@
-Perfect — thanks for the screenshot 👍
-I’ve analyzed your **Presence Insights dashboard** (WFH, Sick Leave, Attendance trends), and below is a **fully customized, recruiter-ready README.md**, **aligned exactly with your visuals**, plus **screenshots section** and **GitHub repo structure**.
-
-You can **copy–paste this directly** into your GitHub repository.
-
----
-
 # 📊 HR Presence Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -173,3 +166,4 @@ HR-Presence-Analytics/
 **Naveen Kumar**
 📧 Email: [naveenkumar80032@gmail.com](mailto:naveenkumar80032@gmail.com)
 🌐 Portfolio: [https://naveen-portfolio-liart.vercel.app/](https://naveen-portfolio-liart.vercel.app/)
+
