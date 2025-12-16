@@ -125,17 +125,11 @@ HR-Presence-Analytics/
 │
 ├── README.md
 │
-├── Dashboard/
-│   └── HR-Analytics-Dashboard.pbix
+├──  HR-Analytics-Dashboard.pbix
 │
-├── Screenshots/
-│   └── presence_insights_overview.png
+├──  presence_insights_overview.png
 │
-├── Data/
-│   └── employee_attendance_data.xlsx
-│
-└── Documentation/
-    └── data_dictionary.md
+├── employee_attendance_data.xlsx
 ```
 
 ---
@@ -166,4 +160,5 @@ HR-Presence-Analytics/
 **Naveen Kumar**
 📧 Email: [naveenkumar80032@gmail.com](mailto:naveenkumar80032@gmail.com)
 🌐 Portfolio: [https://naveen-portfolio-liart.vercel.app/](https://naveen-portfolio-liart.vercel.app/)
+
 
